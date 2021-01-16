@@ -1,2 +1,2 @@
 # Shiyoku
-Shiyoku bot for moderation and fun
+A discord bot for moderation and fun!
